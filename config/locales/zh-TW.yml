@@ -11,3 +11,7 @@ zh-TW:
     successfully_updated: "更新成功"
     unsuccessfully_updated: "更新失敗"
     save: "儲存"
+    edit: "編輯"
+    remove: "移除"
+    are_you_sure: "您確定？"
+    use_billing_address: "使用帳單地址"
