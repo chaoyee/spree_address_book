@@ -1,0 +1,13 @@
+zh-TW:
+  address_book:
+    other_address: "其他地址"
+    add_new_shipping_address: "新增送貨地址"
+    new_shipping_address: "新送貨地址"
+    edit_shipping_address: "編輯送貨地址"
+    no_shipping_addresses_on_file: "檔案中無送貨地址"
+    shipping_addresses: "送貨地址"
+    successfully_saved: "儲存成功"
+    unsuccessfully_saved: "儲存地址時發生錯誤"
+    successfully_updated: "更新成功"
+    unsuccessfully_updated: "更新失敗"
+    save: "儲存"
